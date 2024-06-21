@@ -1,0 +1,14 @@
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Domain\bin\Debug\net8.0\DemoOnionArchitecture.Domain.deps.json
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Domain\bin\Debug\net8.0\DemoOnionArchitecture.Domain.runtimeconfig.json
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Domain\bin\Debug\net8.0\DemoOnionArchitecture.Domain.dll
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Domain\bin\Debug\net8.0\DemoOnionArchitecture.Domain.pdb
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Domain\obj\Debug\net8.0\DemoOnionArchitecture.Domain.csproj.AssemblyReference.cache
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Domain\obj\Debug\net8.0\DemoOnionArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Domain\obj\Debug\net8.0\DemoOnionArchitecture.Domain.AssemblyInfoInputs.cache
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Domain\obj\Debug\net8.0\DemoOnionArchitecture.Domain.AssemblyInfo.cs
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Domain\obj\Debug\net8.0\DemoOnionArchitecture.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Domain\obj\Debug\net8.0\DemoOnionArchitecture.Domain.dll
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Domain\obj\Debug\net8.0\refint\DemoOnionArchitecture.Domain.dll
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Domain\obj\Debug\net8.0\DemoOnionArchitecture.Domain.pdb
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Domain\obj\Debug\net8.0\DemoOnionArchitecture.Domain.genruntimeconfig.cache
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Domain\obj\Debug\net8.0\ref\DemoOnionArchitecture.Domain.dll

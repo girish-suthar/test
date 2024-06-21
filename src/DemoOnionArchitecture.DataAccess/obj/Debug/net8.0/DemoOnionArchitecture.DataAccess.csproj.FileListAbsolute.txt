@@ -1,0 +1,17 @@
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\bin\Debug\net8.0\DemoOnionArchitecture.DataAccess.deps.json
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\bin\Debug\net8.0\DemoOnionArchitecture.DataAccess.runtimeconfig.json
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\bin\Debug\net8.0\DemoOnionArchitecture.DataAccess.dll
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\bin\Debug\net8.0\DemoOnionArchitecture.DataAccess.pdb
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\bin\Debug\net8.0\DemoOnionArchitecture.Domain.dll
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\bin\Debug\net8.0\DemoOnionArchitecture.Domain.pdb
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\obj\Debug\net8.0\DemoOnionArchitecture.DataAccess.csproj.AssemblyReference.cache
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\obj\Debug\net8.0\DemoOnionArchitecture.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\obj\Debug\net8.0\DemoOnionArchitecture.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\obj\Debug\net8.0\DemoOnionArchitecture.DataAccess.AssemblyInfo.cs
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\obj\Debug\net8.0\DemoOnionArchitecture.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\obj\Debug\net8.0\DemoOnio.75A57C62.Up2Date
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\obj\Debug\net8.0\DemoOnionArchitecture.DataAccess.dll
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\obj\Debug\net8.0\refint\DemoOnionArchitecture.DataAccess.dll
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\obj\Debug\net8.0\DemoOnionArchitecture.DataAccess.pdb
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\obj\Debug\net8.0\DemoOnionArchitecture.DataAccess.genruntimeconfig.cache
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.DataAccess\obj\Debug\net8.0\ref\DemoOnionArchitecture.DataAccess.dll

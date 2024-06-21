@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\DemoOnionArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.application\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|solutionrelative:src\\demoonionarchitecture.application\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.dataaccess\\configurations\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|solutionrelative:src\\demoonionarchitecture.dataaccess\\configurations\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.dataaccess\\common\\helper\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|solutionrelative:src\\demoonionarchitecture.dataaccess\\common\\helper\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.application\\services\\villaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|solutionrelative:src\\demoonionarchitecture.application\\services\\villaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|solutionrelative:src\\demoonionarchitecture.dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE20CD1F-4F78-4D10-B191-8EEF1AF7946B}|src\\DemoOnionArchitecture.API\\DemoOnionArchitecture.API.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE20CD1F-4F78-4D10-B191-8EEF1AF7946B}|src\\DemoOnionArchitecture.API\\DemoOnionArchitecture.API.csproj|solutionrelative:src\\demoonionarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|solutionrelative:src\\demoonionarchitecture.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE20CD1F-4F78-4D10-B191-8EEF1AF7946B}|src\\DemoOnionArchitecture.API\\DemoOnionArchitecture.API.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE20CD1F-4F78-4D10-B191-8EEF1AF7946B}|src\\DemoOnionArchitecture.API\\DemoOnionArchitecture.API.csproj|solutionrelative:src\\demoonionarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE20CD1F-4F78-4D10-B191-8EEF1AF7946B}|src\\DemoOnionArchitecture.API\\DemoOnionArchitecture.API.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE20CD1F-4F78-4D10-B191-8EEF1AF7946B}|src\\DemoOnionArchitecture.API\\DemoOnionArchitecture.API.csproj|solutionrelative:src\\demoonionarchitecture.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.dataaccess\\common\\enum\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|solutionrelative:src\\demoonionarchitecture.dataaccess\\common\\enum\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.dataaccess\\common\\constant\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|solutionrelative:src\\demoonionarchitecture.dataaccess\\common\\constant\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.dataaccess\\repositories\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|solutionrelative:src\\demoonionarchitecture.dataaccess\\repositories\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.dataaccess\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|solutionrelative:src\\demoonionarchitecture.dataaccess\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE20CD1F-4F78-4D10-B191-8EEF1AF7946B}|src\\DemoOnionArchitecture.API\\DemoOnionArchitecture.API.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE20CD1F-4F78-4D10-B191-8EEF1AF7946B}|src\\DemoOnionArchitecture.API\\DemoOnionArchitecture.API.csproj|solutionrelative:src\\demoonionarchitecture.api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.application\\abstract\\ivillaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|solutionrelative:src\\demoonionarchitecture.application\\abstract\\ivillaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.dataaccess\\interface\\iunitofwork.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|solutionrelative:src\\demoonionarchitecture.dataaccess\\interface\\iunitofwork.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.dataaccess\\interface\\ivillarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|solutionrelative:src\\demoonionarchitecture.dataaccess\\interface\\ivillarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.dataaccess\\repositories\\villarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B67930-25F3-47B3-98A9-789A4A7B92D7}|src\\DemoOnionArchitecture.DataAccess\\DemoOnionArchitecture.DataAccess.csproj|solutionrelative:src\\demoonionarchitecture.dataaccess\\repositories\\villarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F86346F-27A1-4EFE-9EFB-A12150389595}|src\\DemoOnionArchitecture.Domain\\DemoOnionArchitecture.Domain.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F86346F-27A1-4EFE-9EFB-A12150389595}|src\\DemoOnionArchitecture.Domain\\DemoOnionArchitecture.Domain.csproj|solutionrelative:src\\demoonionarchitecture.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.application\\dtos\\request\\loginrequestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|solutionrelative:src\\demoonionarchitecture.application\\dtos\\request\\loginrequestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.application\\dtos\\request\\registerrequestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|solutionrelative:src\\demoonionarchitecture.application\\dtos\\request\\registerrequestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.application\\mappings\\mapconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|solutionrelative:src\\demoonionarchitecture.application\\mappings\\mapconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.application\\dtos\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|solutionrelative:src\\demoonionarchitecture.application\\dtos\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.application\\dtos\\response\\loginresponsevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13477B2-2E4D-46C4-85C8-3C293C072E30}|src\\DemoOnionArchitecture.Application\\DemoOnionArchitecture.Application.csproj|solutionrelative:src\\demoonionarchitecture.application\\dtos\\response\\loginresponsevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F86346F-27A1-4EFE-9EFB-A12150389595}|src\\DemoOnionArchitecture.Domain\\DemoOnionArchitecture.Domain.csproj|d:\\projects\\demoonionarchitecture\\src\\demoonionarchitecture.domain\\entity\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F86346F-27A1-4EFE-9EFB-A12150389595}|src\\DemoOnionArchitecture.Domain\\DemoOnionArchitecture.Domain.csproj|solutionrelative:src\\demoonionarchitecture.domain\\entity\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 359,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtConfiguration.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Configurations\\JwtConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.DataAccess\\Configurations\\JwtConfiguration.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Configurations\\JwtConfiguration.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.DataAccess\\Configurations\\JwtConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:32:23.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigurationHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Common\\Helper\\ConfigurationHelper.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.DataAccess\\Common\\Helper\\ConfigurationHelper.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Common\\Helper\\ConfigurationHelper.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.DataAccess\\Common\\Helper\\ConfigurationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:27:52.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Common\\Enum\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.DataAccess\\Common\\Enum\\Class1.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Common\\Enum\\Class1.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.DataAccess\\Common\\Enum\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:27:22.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Common\\Constant\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.DataAccess\\Common\\Constant\\Class1.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Common\\Constant\\Class1.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.DataAccess\\Common\\Constant\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:27:11.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IVillaService.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\Abstract\\IVillaService.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.Application\\Abstract\\IVillaService.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\Abstract\\IVillaService.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.Application\\Abstract\\IVillaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:03:13.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VillaController.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.API\\Controllers\\VillaController.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.API\\Controllers\\VillaController.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.API\\Controllers\\VillaController.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.API\\Controllers\\VillaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:57:58.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VillaService.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\Services\\VillaService.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.Application\\Services\\VillaService.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\Services\\VillaService.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.Application\\Services\\VillaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:54:33.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IVillaRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Interface\\IVillaRepository.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.DataAccess\\Interface\\IVillaRepository.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Interface\\IVillaRepository.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.DataAccess\\Interface\\IVillaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:49:24.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.DataAccess\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.DataAccess\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:48:19.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.DataAccess\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.DataAccess\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:36:12.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VillaRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Repositories\\VillaRepository.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.DataAccess\\Repositories\\VillaRepository.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Repositories\\VillaRepository.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.DataAccess\\Repositories\\VillaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:32:41.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repositories.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Repositories\\Repositories.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.DataAccess\\Repositories\\Repositories.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Repositories\\Repositories.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.DataAccess\\Repositories\\Repositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:26:54.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\Services\\UserService.cs*",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.Application\\Services\\UserService.cs*",
+              "ViewState": "AQIAABQAAAAAAAAAAAAnwDMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:24:23.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.Application\\Abstract\\IUserService.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.Application\\Abstract\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:59:37.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:59:08.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VillaDTO.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\DTOs\\VillaDTO.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.Application\\DTOs\\VillaDTO.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\DTOs\\VillaDTO.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.Application\\DTOs\\VillaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:09:56.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginResponseVM.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\DTOs\\Response\\LoginResponseVM.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.Application\\DTOs\\Response\\LoginResponseVM.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\DTOs\\Response\\LoginResponseVM.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.Application\\DTOs\\Response\\LoginResponseVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:09:54.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterRequestVM.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\DTOs\\Request\\RegisterRequestVM.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.Application\\DTOs\\Request\\RegisterRequestVM.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\DTOs\\Request\\RegisterRequestVM.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.Application\\DTOs\\Request\\RegisterRequestVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:09:51.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginRequestVM.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\DTOs\\Request\\LoginRequestVM.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.Application\\DTOs\\Request\\LoginRequestVM.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\DTOs\\Request\\LoginRequestVM.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.Application\\DTOs\\Request\\LoginRequestVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:09:42.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Villa.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Domain\\Entity\\Villa.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.Domain\\Entity\\Villa.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Domain\\Entity\\Villa.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.Domain\\Entity\\Villa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:07:33.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Domain\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.Domain\\Entity\\User.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Domain\\Entity\\User.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.Domain\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:07:10.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.DataAccess\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.DataAccess\\Context\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.DataAccess\\Context\\ApplicationDbContext.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:05:34.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MapConfig.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\Mappings\\MapConfig.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.Application\\Mappings\\MapConfig.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.Application\\Mappings\\MapConfig.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.Application\\Mappings\\MapConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:02:00.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.API\\appsettings.json",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.API\\appsettings.json",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T10:56:44.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\DemoOnionArchitecture.API\\Program.cs",
+              "ToolTip": "D:\\Projects\\DemoOnionArchitecture\\src\\DemoOnionArchitecture.API\\Program.cs",
+              "RelativeToolTip": "src\\DemoOnionArchitecture.API\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADIAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:04:11.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

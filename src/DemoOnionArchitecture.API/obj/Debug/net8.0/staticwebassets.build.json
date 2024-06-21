@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FCQa5xb0RtFCSLCShA1AqQfAaC3rNo1cGLa1tMp65TQ=",
+  "Source": "DemoOnionArchitecture.API",
+  "BasePath": "_content/DemoOnionArchitecture.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

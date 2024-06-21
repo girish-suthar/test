@@ -1,0 +1,17 @@
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\bin\Debug\net8.0\DemoOnionArchitecture.Application.deps.json
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\bin\Debug\net8.0\DemoOnionArchitecture.Application.dll
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\bin\Debug\net8.0\DemoOnionArchitecture.Application.pdb
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\bin\Debug\net8.0\DemoOnionArchitecture.DataAccess.dll
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\bin\Debug\net8.0\DemoOnionArchitecture.Domain.dll
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\bin\Debug\net8.0\DemoOnionArchitecture.DataAccess.pdb
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\bin\Debug\net8.0\DemoOnionArchitecture.Domain.pdb
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\obj\Debug\net8.0\DemoOnionArchitecture.Application.csproj.AssemblyReference.cache
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\obj\Debug\net8.0\DemoOnionArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\obj\Debug\net8.0\DemoOnionArchitecture.Application.AssemblyInfoInputs.cache
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\obj\Debug\net8.0\DemoOnionArchitecture.Application.AssemblyInfo.cs
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\obj\Debug\net8.0\DemoOnionArchitecture.Application.csproj.CoreCompileInputs.cache
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\obj\Debug\net8.0\DemoOnio.6578DEE3.Up2Date
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\obj\Debug\net8.0\DemoOnionArchitecture.Application.dll
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\obj\Debug\net8.0\refint\DemoOnionArchitecture.Application.dll
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\obj\Debug\net8.0\DemoOnionArchitecture.Application.pdb
+D:\Projects\DemoOnionArchitecture\src\DemoOnionArchitecture.Application\obj\Debug\net8.0\ref\DemoOnionArchitecture.Application.dll
